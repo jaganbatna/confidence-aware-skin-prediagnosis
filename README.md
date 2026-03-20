@@ -4,7 +4,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?style=flat-square&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?style=flat-square&logo=pytorch)
 ![EfficientNet](https://img.shields.io/badge/Model-EfficientNet--B0-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
 
 > An AI-powered skin disease pre-diagnosis system that uses EfficientNet-B0 with confidence-aware reasoning, adaptive clinical questioning, and Bayesian posterior updates to assist in identifying 7 types of skin lesions.
 
