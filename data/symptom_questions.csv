@@ -1,0 +1,20 @@
+symptom_id,symptom_category,question,answer_type
+S1,Visual,Has the lesion changed in color?,binary
+S2,Visual,Is the lesion asymmetrical?,binary
+S3,Visual,Are the borders irregular or uneven?,binary
+S4,Visual,Has the lesion increased in size recently?,binary
+S5,Visual,Is there any open sore or ulcer?,binary
+S6,Visual,Has the lesion bled without any injury?,binary
+S7,Visual,Does it form crusts or scabs?,binary
+S8,Visual,Does the surface feel rough or scaly?,binary
+S9,Visual,Does it look shiny or pearly?,binary
+S10,Sensory,Do you experience itching?,binary
+S11,Sensory,Do you feel pain in the lesion?,binary
+S12,Sensory,Is the lesion tender when touched?,binary
+S13,Temporal,Has it grown rapidly over weeks or months?,binary
+S14,Temporal,Has it remained unchanged for over a year?,binary
+S15,Temporal,Does it heal and then reopen again?,binary
+S16,Risk,Do you have frequent or prolonged sun exposure?,binary
+S17,Risk,Are you above 50 years of age?,binary
+S18,Risk,Have you had skin cancer before?,binary
+S19,Risk,Does skin cancer run in your family?,binary

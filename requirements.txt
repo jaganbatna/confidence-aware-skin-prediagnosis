@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+torch
+torchvision
+pillow
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+requests
+openai
+python-multipart
