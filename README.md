@@ -1,3 +1,12 @@
+---
+title: DermIntelligent
+emoji: 🔬
+colorFrom: green
+colorTo: teal
+sdk: docker
+pinned: false
+---
+
 # 🔬 DermAI — Confidence-Aware Skin Pre-Diagnosis System
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
