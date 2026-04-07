@@ -2,7 +2,7 @@
 title: DermIntelligent
 emoji: 🔬
 colorFrom: green
-colorTo: teal
+colorTo: blue
 sdk: docker
 pinned: false
 ---
